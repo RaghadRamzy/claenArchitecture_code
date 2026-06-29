@@ -1,0 +1,11 @@
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\bin\Debug\net10.0\Employee.Domain.deps.json
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\bin\Debug\net10.0\Employee.Domain.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\bin\Debug\net10.0\Employee.Domain.pdb
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\Employee.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\Employee.Domain.AssemblyInfoInputs.cache
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\Employee.Domain.AssemblyInfo.cs
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\Employee.Domain.csproj.CoreCompileInputs.cache
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\Employee.Domain.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\refint\Employee.Domain.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\Employee.Domain.pdb
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Domain\obj\Debug\net10.0\ref\Employee.Domain.dll

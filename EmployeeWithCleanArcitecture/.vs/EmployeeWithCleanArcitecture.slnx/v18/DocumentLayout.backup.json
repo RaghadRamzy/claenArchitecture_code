@@ -1,0 +1,176 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A26DA-6B2F-4A15-8096-A6C453C5749A}|EmployeeWithCleanArcitecture\\Employee.Api.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employeewithcleanarcitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DA4A26DA-6B2F-4A15-8096-A6C453C5749A}|EmployeeWithCleanArcitecture\\Employee.Api.csproj|solutionrelative:employeewithcleanarcitecture\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA4A26DA-6B2F-4A15-8096-A6C453C5749A}|EmployeeWithCleanArcitecture\\Employee.Api.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employeewithcleanarcitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA4A26DA-6B2F-4A15-8096-A6C453C5749A}|EmployeeWithCleanArcitecture\\Employee.Api.csproj|solutionrelative:employeewithcleanarcitecture\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employee.infrastructure\\context\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\context\\employeedbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employee.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BE5FCAE-0841-4C7C-9B33-5E6AF1CE113B}|Employee.Application\\Employee.Application.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employee.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BE5FCAE-0841-4C7C-9B33-5E6AF1CE113B}|Employee.Application\\Employee.Application.csproj|solutionrelative:employee.application\\interfaces\\iemployeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employee.infrastructure\\employee.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\employee.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employee.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF06135F-7DC3-400F-9485-DD776F19D525}|Employee.Infrastructure\\Employee.Infrastructure.csproj|solutionrelative:employee.infrastructure\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79DC459C-9D3C-434F-8F5A-269B12354058}|Employee.Domain\\Employee.Domain.csproj|c:\\users\\ragha\\source\\repos\\employeewithcleanarcitecture\\employee.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79DC459C-9D3C-434F-8F5A-269B12354058}|Employee.Domain\\Employee.Domain.csproj|solutionrelative:employee.domain\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\EmployeeWithCleanArcitecture\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeWithCleanArcitecture\\appsettings.json",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\EmployeeWithCleanArcitecture\\appsettings.json",
+              "RelativeToolTip": "EmployeeWithCleanArcitecture\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-29T11:33:02.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\EmployeeWithCleanArcitecture\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeWithCleanArcitecture\\Program.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\EmployeeWithCleanArcitecture\\Program.cs*",
+              "RelativeToolTip": "EmployeeWithCleanArcitecture\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T11:32:36.376Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Application\\Interfaces\\IEmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:39:34.62Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployeeDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Context\\EmployeeDbContext.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Context\\EmployeeDbContext.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Context\\EmployeeDbContext.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Context\\EmployeeDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwBIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:28:13.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:25:53.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Employee.Infrastructure\\Repository\\EmployeeRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:24:18.68Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "employee.cs",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Domain\\employee.cs",
+              "RelativeDocumentMoniker": "Employee.Domain\\employee.cs",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Domain\\employee.cs",
+              "RelativeToolTip": "Employee.Domain\\employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-29T10:20:17.208Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Employee.Infrastructure",
+              "DocumentMoniker": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\ragha\\source\\repos\\EmployeeWithCleanArcitecture\\Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "RelativeToolTip": "Employee.Infrastructure\\Employee.Infrastructure.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-29T10:22:09.241Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

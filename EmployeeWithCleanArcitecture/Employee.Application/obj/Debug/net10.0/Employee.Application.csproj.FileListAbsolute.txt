@@ -1,0 +1,15 @@
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\bin\Debug\net10.0\Employee.Application.deps.json
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\bin\Debug\net10.0\Employee.Application.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\bin\Debug\net10.0\Employee.Application.pdb
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\bin\Debug\net10.0\Employee.Domain.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\bin\Debug\net10.0\Employee.Domain.pdb
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.csproj.AssemblyReference.cache
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.AssemblyInfoInputs.cache
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.AssemblyInfo.cs
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.csproj.CoreCompileInputs.cache
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.55D0FAD1.Up2Date
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\refint\Employee.Application.dll
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\Employee.Application.pdb
+C:\Users\ragha\source\repos\EmployeeWithCleanArcitecture\Employee.Application\obj\Debug\net10.0\ref\Employee.Application.dll

@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="Employee.Application/Employee.Application.csproj" />
+  <Project Path="Employee.Domain/Employee.Domain.csproj" />
+  <Project Path="Employee.Infrastructure/Employee.Infrastructure.csproj" />
+  <Project Path="EmployeeWithCleanArcitecture/Employee.Api.csproj" />
+</Solution>
